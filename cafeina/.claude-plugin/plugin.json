@@ -1,0 +1,10 @@
+{
+  "name": "cafeina",
+  "version": "0.1.1",
+  "description": "Mantén la compu despierta mientras Claude trabaja: /cafeina 3h, /cafeina 90m o /cafeina off, con la cuenta regresiva arriba del prompt. macOS (caffeinate) y Linux (systemd-inhibit).",
+  "author": {
+    "name": "Diego Murillo"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

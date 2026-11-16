@@ -1,0 +1,8 @@
+{
+  "name": "medidor-uso",
+  "version": "0.1.0",
+  "description": "El uso de tu plan (5 horas y 7 días) en barritas arriba del prompt, con la cuenta regresiva al reinicio. /uso lo oculta o lo muestra sin tocar los demás mods. Basado en usage-meter de Hamza Zafar (MIT).",
+  "author": { "name": "Diego Murillo" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

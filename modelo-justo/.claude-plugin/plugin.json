@@ -1,0 +1,9 @@
+{
+  "name": "modelo-justo",
+  "version": "0.2.0",
+  "description": "Clasifica cada petición y ajusta el turno: Haiku, Sonnet u Opus (modo modelo) o low, medium o high en el modelo de la sesión (modo esfuerzo).",
+  "author": {
+    "name": "Diego Murillo"
+  },
+  "license": "MIT"
+}

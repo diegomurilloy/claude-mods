@@ -1,0 +1,10 @@
+{
+  "name": "prompt-enhancer",
+  "version": "0.2.0",
+  "description": "Botones Enhance y Send encima del prompt: convierte una idea corta en un prompt completo. /enhance-botones los oculta o los muestra.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Diego Murillo"
+  },
+  "license": "MIT"
+}

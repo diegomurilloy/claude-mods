@@ -1,0 +1,38 @@
+{
+  "name": "mods-de-diego",
+  "owner": {
+    "name": "Diego Murillo"
+  },
+  "plugins": [
+    {
+      "name": "prompt-enhancer",
+      "source": "./prompt-enhancer",
+      "description": "Botones Enhance y Send encima del prompt: convierte una idea corta en un prompt completo. /enhance-botones los oculta o los muestra."
+    },
+    {
+      "name": "modelo-justo",
+      "source": "./modelo-justo",
+      "description": "Clasifica cada petición y ajusta el turno: Haiku, Sonnet u Opus (modo modelo) o low, medium o high en el modelo de la sesión (modo esfuerzo)."
+    },
+    {
+      "name": "medidor-uso",
+      "source": "./medidor-uso",
+      "description": "El uso de tu plan (5 horas y 7 días) en barritas arriba del prompt, con la cuenta regresiva al reinicio. /uso lo oculta o lo muestra sin tocar los demás mods. Basado en usage-meter de Hamza Zafar (MIT)."
+    },
+    {
+      "name": "cafeina",
+      "source": "./cafeina",
+      "description": "Mantén la compu despierta mientras Claude trabaja: /cafeina 3h, /cafeina 90m o /cafeina off, con la cuenta regresiva arriba del prompt. macOS (caffeinate) y Linux (systemd-inhibit)."
+    },
+    {
+      "name": "barra-contexto",
+      "source": "./barra-contexto",
+      "description": "Tu ventana de contexto como una barra de colores arriba del prompt, por categoría, con tokens y el punto de compactación. /barra-contexto la oculta o la muestra sin tocar los demás mods. Basado en context-bar de Hamza Zafar (MIT)."
+    },
+    {
+      "name": "fondos",
+      "source": "./fondos",
+      "description": "Fondos animados para Claude Desktop que tú eliges: acuarela, ascii (monarcas hechas de caracteres) y laponia (aurora boreal, cabaña con humo y bosque nevado). /fondo acuarela cambia el fondo y los colores; /fondo ninguno lo quita. Usa la técnica de gotham-night de Hamza Zafar (MIT)."
+    }
+  ]
+}

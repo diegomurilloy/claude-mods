@@ -1,0 +1,8 @@
+{
+  "name": "barra-contexto",
+  "version": "0.1.0",
+  "description": "Tu ventana de contexto como una barra de colores arriba del prompt, por categoría, con tokens y el punto de compactación. /barra-contexto la oculta o la muestra sin tocar los demás mods. Basado en context-bar de Hamza Zafar (MIT).",
+  "author": { "name": "Diego Murillo" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

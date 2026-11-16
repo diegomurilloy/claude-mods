@@ -1,0 +1,9 @@
+{
+  "name": "fondos",
+  "version": "0.3.1",
+  "description": "Fondos animados para Claude Desktop que tú eliges: acuarela, ascii (monarcas hechas de caracteres) y laponia (aurora boreal, cabaña con humo y bosque nevado). /fondo acuarela cambia el fondo y los colores; /fondo ninguno lo quita. Usa la técnica de gotham-night de Hamza Zafar (MIT).",
+  "author": {
+    "name": "Diego Murillo"
+  },
+  "license": "MIT"
+}
