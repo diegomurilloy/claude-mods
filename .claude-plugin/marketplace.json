@@ -33,6 +33,11 @@
       "name": "fondos",
       "source": "./fondos",
       "description": "Fondos animados para Claude Desktop que tú eliges: acuarela, ascii (monarcas hechas de caracteres) y laponia (aurora boreal, cabaña con humo y bosque nevado). /fondo acuarela cambia el fondo y los colores; /fondo ninguno lo quita. Usa la técnica de gotham-night de Hamza Zafar (MIT)."
+    },
+    {
+      "name": "explica-guia",
+      "source": "./explica-guia",
+      "description": "Escribe /explica y te arma una guía en PDF de lo que hizo Claude: qué cambió, por qué y cómo comprobarlo, con analogías simples. Pensada para quien hace vibecoding. Agrega explicaciones/ al .gitignore del proyecto."
     }
   ]
 }

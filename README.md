@@ -1,6 +1,6 @@
 # Mods de Diego para Claude Code
 
-Seis mods en español para Claude Code. Cada uno se instala solo y se oculta con su propio comando, así que puedes quedarte con los que te sirvan.
+Siete mods en español para Claude Code. Cada uno se instala solo y se oculta con su propio comando, así que puedes quedarte con los que te sirvan.
 
 Necesitas Claude Code 2.1.287 o posterior. Funcionan en la terminal, en la pestaña Code de Claude Desktop y en VS Code.
 
@@ -15,6 +15,7 @@ En una sesión de Claude Code, escribe la línea del mod que quieras:
 /plugin install cafeina --marketplace diegomurilloy/claude-mods
 /plugin install barra-contexto --marketplace diegomurilloy/claude-mods
 /plugin install fondos --marketplace diegomurilloy/claude-mods
+/plugin install explica-guia --marketplace diegomurilloy/claude-mods
 ```
 
 La primera vez te pregunta si agregas el marketplace: contesta `y`. Desde una terminal normal también sirve `claude plugin install <mod> --marketplace diegomurilloy/claude-mods`.
@@ -29,6 +30,7 @@ La primera vez te pregunta si agregas el marketplace: contesta `y`. Desde una te
 | cafeina | Mantiene la compu y la pantalla despiertas el tiempo que digas, aunque Claude ya haya terminado. macOS y Linux. | `/cafeina 3h`, `/cafeina 90m`, `/cafeina off` |
 | barra-contexto | Tu ventana de contexto como barra de colores por categoría, con los tokens y dónde compacta. | `/barra-contexto on` u `off` |
 | fondos | Fondos animados para Claude Desktop: acuarela, ascii con mariposas monarca hechas de caracteres y Laponia con aurora boreal. Cambia también los colores de la app. | `/fondo acuarela`, `/fondo ascii`, `/fondo laponia`, `/fondo ninguno` |
+| explica-guia | Te arma una guía en PDF de lo que hizo Claude: qué cambió, por qué, cómo funciona en palabras simples y cómo comprobarlo. Necesita Chrome para el PDF; sin Chrome te deja el HTML. Agrega `explicaciones/` al `.gitignore` del proyecto. | `/explica`, `/explica sesion` |
 
 ## Créditos
 

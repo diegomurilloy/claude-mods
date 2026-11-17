@@ -1,0 +1,10 @@
+{
+  "name": "explica-guia",
+  "version": "0.1.6",
+  "description": "Arma una guía visual (HTML y PDF) de lo que Claude hizo en la tarea o en la sesión, para que cualquiera entienda qué se hizo y por qué: /explica, /explica sesion, /explica abrir.",
+  "author": {
+    "name": "Diego Murillo"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
